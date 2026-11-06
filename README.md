@@ -1,4 +1,4 @@
-# Hi, I'm Erik Ståhlberg 👋
+# Hi, I'm Erik Ståhlberg
 
 **Software Developer | Technical Artist | Musician | Outdoor Enthusiast**
 
@@ -6,7 +6,7 @@ I'm a software developer based in Sweden with around 9 years of professional exp
 
 I enjoy combining technology, creativity, and practical problem-solving. Whether I'm developing software, creating games, producing music, or volunteering, I'm always interested in learning something new and contributing to meaningful projects.
 
-## 💻 Software & Technology
+## Software & Technology
 
 My background includes:
 
@@ -18,7 +18,7 @@ My background includes:
 
 I'm particularly interested in projects where software meets real-world applications.
 
-## 🎮 Projects
+## Projects
 
 This GitHub profile contains a collection of personal, educational, and experimental projects.
 
@@ -31,7 +31,7 @@ Some of my interests include:
 
 I'm gradually documenting and publishing more of my work.
 
-## 🎺 Music & Audio
+## Music & Audio
 
 Music is an important part of my life.
 
@@ -41,7 +41,7 @@ I'm also studying Music and Sound Design, exploring audio engineering, recording
 
 I enjoy both the artistic and technical sides of music.
 
-## 🤝 Volunteering & Community
+## Volunteering & Community
 
 I believe in contributing to communities and organizations beyond my professional work.
 
@@ -49,7 +49,7 @@ I'm actively involved in Scoutmusikkåren, where I participate as a musician and
 
 I'm interested in volunteering opportunities that combine technology, practical work, environmental responsibility, and meaningful contributions.
 
-## 🌊 Maritime & Outdoor Interests
+## Maritime & Outdoor Interests
 
 Outside software and music, I have a strong interest in maritime activities and outdoor adventures.
 
@@ -61,7 +61,7 @@ Outside software and music, I have a strong interest in maritime activities and 
 
 I enjoy exploring new environments, developing practical skills, and challenging myself.
 
-## 📫 Connect
+## Connect
 
 - **GitHub:** [github.com/erikstahlberg](https://github.com/erikstahlberg)
 - **LinkedIn:** [linkedin.com/in/erikstahlberg](https://www.linkedin.com/in/erikstahlberg/)
